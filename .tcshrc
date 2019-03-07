@@ -1,0 +1,5 @@
+#setenv SSW /home/carlos/bin/ssw
+setenv SSW /home/carlos/bin/ssw3/ssw
+setenv IDL_DIR /home/carlos/Software/InstalaIDL/IDL/idl
+setenv SSW_INSTR "aia eis chianti"
+source $SSW/gen/setup/setup.ssw
